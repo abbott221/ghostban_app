@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Go Problems</title>
+
+    <!-- International support -->
+    <!-- <script type="text/javascript" src="player/i18n/XXX.js"></script> -->
+    
+    <!-- <script type="text/javascript" src="player/js/all.compressed.js"></script> -->
+
+    <script type="text/javascript" src="js/jquery-1.7.1.js"></script>
+    <script type="text/javascript" src="js/raphael.js"></script>
+
+    <!-- Uncomment the following to work with the original source. -->
+    <script type="text/javascript" src="player/js/lang.js"></script>
+    <script type="text/javascript" src="player/js/eidogo.js"></script>
+    <script type="text/javascript" src="player/js/util.js"></script>
+    <script type="text/javascript" src="player/i18n/en.js"></script>
+    <script type="text/javascript" src="player/js/gametree.js"></script>
+    <script type="text/javascript" src="player/js/sgf.js"></script>
+    <script type="text/javascript" src="player/js/board.js"></script>
+    <script type="text/javascript" src="player/js/boardRaphael.js"></script>
+    <script type="text/javascript" src="player/js/navTree/raphaelNavTree.js"></script>
+    <script type="text/javascript" src="player/js/rules.js"></script>
+    <script type="text/javascript" src="player/js/player.js"></script>
+    <script type="text/javascript" src="player/js/init.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
+    <link href="css/goproblems.css" rel="stylesheet" type="text/css">
+    <link href="css/comments.css" rel="stylesheet" type="text/css">
+    <link href="css/board-big.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+    <div id="player-container" style="display:none;">
+    </div>
+
+  <script type="text/javascript" src="js/goproblems.js"></script>
+  <script type="text/javascript" src="js/comments.js"></script>
+  <script>
+    $(function() {
+      problemOneSGF = '(;AP[goproblems]AB[pq]AB[qp]AW[qq]AW[rq]AB[qo]AB[op]AB[qn]C[White to live](;W[pr];B[or](;W[qs](;B[rp]C[CHOICE](;W[rr]C[RIGHT])(;W[sr];B[rs];W[rr];B[os])(;W[sq];B[rr])(;W[rs];B[sr](;W[rr];B[sq])(;W[sq];B[rr]))(;W[ss];B[rr]))(;B[rr]C[CHOICE](;W[sr];B[rs];W[rp];B[ro];W[sp]C[RIGHT])(;W[rp];B[qr])(;W[rs];B[sr]))(;B[sr](;W[rr];B[os](;W[ss](;B[rs];W[sq];B[ps];W[qr]C[RIGHT])(;B[ps];W[qr];B[rs];W[sq]C[RIGHT]))(;W[ps];B[rs](;W[ss]C[ko])(;W[sq];B[qr]))(;W[sq];B[ps](;W[qr];B[ss])(;W[ss];B[qr]C[ko]))(;W[rp];B[ro];W[ss];B[rs];W[sq];B[ps](;W[ss];B[qr]C[ko])(;W[qr];B[sp])))(;W[rp];B[ro];W[rr];B[os](;W[ps];B[rs]C[ko])(;W[ss](;B[ps](;W[sq];B[qr]C[ko])(;W[qr];B[rs]C[ko]))(;B[rs];W[sq];B[ps](;W[ss];B[qr]C[ko])(;W[qr];B[sp])))(;W[sq];B[ps](;W[qr];B[ss])(;W[ss];B[qr]C[ko])))))(;W[qr];B[rp](;W[rs];B[sr];W[sq];B[ps])(;W[sr];B[rs])(;W[ps];B[rs]))(;W[rr];B[ps];W[qs];B[qr]C[ko])(;W[rs];B[ps](;W[qr];B[sr])(;W[sr];B[qr](;W[rr];B[rp])(;W[rp];B[rr]))(;W[rp];B[ro](;W[qr];B[sr])(;W[sr];B[qr](;W[sp];B[rr])(;W[rr];B[sp]))))(;W[ps];B[rs](;W[rr];B[os];W[qr];B[rp])(;W[rp];B[ro](;W[rr];B[os];W[qr];B[sp];W[sq];B[ss])(;W[sp];B[os];W[qr];B[sr])(;W[sr];B[sp])))(;W[rp];B[qr](;W[rr];B[ps];W[rs];B[ro];W[sp];B[sr])(;W[ro];B[rn];W[rr];B[ps](;W[so];B[rs])(;W[rs];B[so];W[sp];B[sr]))))(;W[qr];B[pr](;W[rp];B[ro];W[sr];B[rs](;W[qs];B[sp])(;W[sp];B[qs]))(;W[sr];B[rs](;W[qs];B[rp])(;W[rp];B[ro](;W[sp];B[qs])(;W[qs];B[sp])))(;W[rs];B[sr]))(;W[rp];B[qr];W[rr];B[pr](;W[rs];B[ro];W[sp];B[sr])(;W[ro];B[rn];W[rs];B[so];W[sp];B[sr]))(;W[rs];B[pr](;W[qr];B[sr])(;W[rp];B[ro](;W[qr];B[sr])(;W[sr];B[qr](;W[rr];B[sp])(;W[sp];B[rr])))(;W[sr];B[qr](;W[rr];B[rp])(;W[rp];B[ro](;W[rr];B[sp])(;W[sp];B[rr]))))(;W[sr];B[qr](;W[rr];B[pr](;W[rp];B[ro](;W[sp];B[rs])(;W[rs];B[sp]))(;W[rs];B[rp]))(;W[rs];B[pr](;W[rr];B[rp])(;W[rp];B[ro](;W[sp];B[rr])(;W[rr];B[sp])))(;W[rp];B[ro](;W[rr];B[pr](;W[rs];B[sp])(;W[sp];B[rs]))(;W[rs];B[pr](;W[sp];B[rr])(;W[rr];B[sp]))(;W[sp];B[rr])))(;W[rr];B[pr])(;W[qs];B[pr](;W[qr];B[rp](;W[sr];B[rs])(;W[rs];B[sr]))(;W[rp];B[ro](;W[qr];B[sr])(;W[sr];B[qr]))))'
+      problemTwoSGF = '(;FF[4]GM[1]SZ[19]AB[pa][ra][rc][sb]AW[qa][rb];B[qb]C[RIGHT])'
+      problemFromURL = getDecodedSGF()
+      if (!problemFromURL) {
+        problemFromURL = problemTwoSGF
+      }
+
+      player = new go.problems.Player("player-container",
+          {
+            dbId : 1,
+            userId : 1,
+            commentsURL : "util/jsoncomments.php?",
+            postCommentsURL : "util/addcomment.php",
+            stoneSize : 35,
+            debugMode : true,
+            demoMode : true,
+            seenbefore : false,
+            showIsoLines: true,
+            eventsEnabled: true,
+            sgf: problemFromURL
+          });
+    });
+  </script>
+  <script type="text/javascript">
+    // https://stackoverflow.com/questions/19491336/how-to-get-url-parameter-using-jquery-or-plain-javascript
+    function getUrlParameter(sParam) {
+        var sPageURL = window.location.search.substring(1),
+            sURLVariables = sPageURL.split('&'),
+            sParameterName,
+            i;
+
+        for (i = 0; i < sURLVariables.length; i++) {
+            sParameterName = sURLVariables[i].split('=');
+
+            if (sParameterName[0] === sParam) {
+                return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+            }
+        }
+        return false;
+    }
+    function getDecodedSGF() {
+      sgfEncoded = getUrlParameter('sgf')
+      if (!sgfEncoded) {
+        return null
+      }
+      sgfDecoded = decodeURIComponent(sgfEncoded)
+      if (!sgfDecoded) {
+        return null
+      }
+      return sgfDecoded
+    }
+
+    function doGreeting() {
+      console.log("HELLO WORLD! A")
+    }
+    document.addEventListener("goproblems_player.result", function(e) {
+      console.log("HELLO WORLD! B")
+      console.log(e)
+    })
+  </script>
+</body>
+</html>
