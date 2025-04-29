@@ -356,7 +356,8 @@ go.problems.Player.prototype = {
    * in seconds.
    */
   currentTime : function () {
-    return parseInt((new Date().getTime() - this.startTime)/1000);
+    // return parseInt((new Date().getTime() - this.startTime)/1000);
+    return parseInt((new Date().getTime() - this.startTime)) / 1000.0;
   },
 
   /**
