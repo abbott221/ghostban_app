@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property='og:site_name' content='Go Problems'/>
+        <meta name="Author" content="adum"/>
+        <meta name="keywords" content="go, problems, baduk, weiqi, tesuji, fuseki, joseki, life and death, solve, solving"/>
+        <meta name="description" content="Interactive go problem database and community. Solve problems, add new problems, search, comment, and more."/>
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="Go Problem 5760">
+        <meta property="og:image" content="https://d14j2ume0sa4nc.cloudfront.net/problem-images/5760_2_thumbnail_128x128.png">
+        <meta property="og:url" content="/problems/5760">
+        <link rel="alternate" type="application/rss+xml" title="Problems" href="https://goproblems.com/rss/makefeed"/>
+        <link rel="alternate" type="application/rss+xml" title="Comments" href="https://goproblems.com/rss/comments"/>
+        <link rel="icon" href="https://goproblems.com/build/images/favicon.svg" sizes="any" type="image/svg+xml">
+        <link rel="stylesheet" href="https://goproblems.com/build/151.ddc6b339.css">
+        <link rel="stylesheet" href="https://goproblems.com/build/app.f6cd323b.css">
+        <link href="https://goproblems.com/build/styles/bootstrap.min.css" rel="stylesheet"/>
+        <!-- font awesome -->
+        <link href="https://goproblems.com/build/styles/all.min.css" rel="stylesheet"/>
+        <!-- select2 -->
+        <link href="https://goproblems.com/build/styles/select2.min.css" rel="stylesheet"/>
+        <link href="https://goproblems.com/build/styles/select2-bootstrap-5-theme.min.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://goproblems.com/build/player.bdbf1832.css">
+        <script>
+            window.__application_translation_resources = {
+                "en": {
+                }
+            };
+            window.__application_lang = "en";
+        </script>
+        <script src="https://goproblems.com/build/runtime.f743a3dd.js"></script>
+        <script src="https://goproblems.com/build/83.c2af3394.js"></script>
+        <script src="https://goproblems.com/build/155.ff0b1954.js"></script>
+        <script src="https://goproblems.com/build/920.ee890204.js"></script>
+        <script src="https://goproblems.com/build/308.0d262530.js"></script>
+        <script src="https://goproblems.com/build/381.d1d69049.js"></script>
+        <script src="https://goproblems.com/build/134.49a8827e.js"></script>
+        <script src="https://goproblems.com/build/151.4f98a74e.js"></script>
+        <script src="https://goproblems.com/build/442.208c3fed.js"></script>
+        <script src="https://goproblems.com/build/191.c1d83c7c.js"></script>
+        <script src="https://goproblems.com/build/app.5ec51dd8.js"></script>
+        <script src="https://goproblems.com/build/player.58ea469a.js"></script>
+        <title>Problem  5760 goproblems.com </title>
+    </head>
+    <body class="light-scheme-color-background-color">
+
+        <div class="container-fluid">
+
+
+
+            <script>
+                window.onload = function() {
+                    const name = 'collection';
+                    if (name === 'set') {
+                        const problemSet = localStorage.getItem('problems/set');
+                        if (problemSet) {
+                            const problemSetArray = JSON.parse(problemSet);
+                            const currentProblemId = Number('5760');
+                            const nextProblemIndex = problemSetArray.indexOf(currentProblemId) + 1;
+
+                            document.getElementById('app-navbar-control-next').href = nextProblemIndex < problemSetArray.length ? `/problems/${problemSetArray[nextProblemIndex]}?name=set` : `/problems/${currentProblemId}/?name=set&no_next_problem=true`;
+                        }
+                    }
+                    const toolTipDetailsShown = localStorage.getItem('tool-tip-details-shown');
+
+                    if (window.location.href.includes('mode=')) {
+                        document.getElementById('expander').click();
+                        if (window.location.href.includes('mode=intro-edited')) {
+                            document.querySelector('.intro-information-edited').classList.remove('d-none');
+                        } else if (window.location.href.includes('mode=intro-new')) {
+                            document.querySelector('.intro-information-new').classList.remove('d-none');
+                        }
+                    }
+
+                    window.addEventListener('toggle-modal', (e) => {
+                        $('#' + e.detail.id).modal('toggle');
+                    }
+                    , false);
+
+                    let tooltipContainers = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+
+                    tooltipContainers.forEach(function(element) {
+                        const tooltip = new window.bootstrap.Tooltip(element);
+
+                        if (!toolTipDetailsShown && element.classList.contains('expander-icon')) {
+                            tooltip.show();
+
+                            document.getElementById('expander').addEventListener('click', function() {
+                                tooltip.hide();
+                                localStorage.setItem('tool-tip-details-shown', 'true');
+                            }, {
+                                once: true
+                            });
+                        }
+                    });
+
+                    let id = '5760';
+                    let pattern = `\u0028\u003BAB\u005Bpq\u005DAB\u005Bqp\u005DAW\u005Bqq\u005DAW\u005Brq\u005DAB\u005Bqo\u005DAB\u005Bop\u005DC\u005BWhite\u0020to\u0020live\u005DAB\u005Bqn\u005DAP\u005Bgoproblems\u005D\n\u0028\u003BW\u005Bpr\u005D\u003BB\u005Bor\u005D\n\u0028\u003BW\u005Bqs\u005D\n\u0028\u003BB\u005Brp\u005DC\u005BCHOICE\u005D\n\u0028\u003BW\u005Brr\u005DC\u005BRIGHT\u005D\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Brs\u005D\u003BW\u005Brr\u005D\u003BB\u005Bos\u005D\u0029\n\u0028\u003BW\u005Bsq\u005D\u003BB\u005Brr\u005D\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bsr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bsq\u005D\u0029\n\u0028\u003BW\u005Bsq\u005D\u003BB\u005Brr\u005D\u0029\u0029\n\u0028\u003BW\u005Bss\u005D\u003BB\u005Brr\u005D\u0029\u0029\n\u0028\u003BB\u005Brr\u005DC\u005BCHOICE\u005D\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Brs\u005D\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\u003BW\u005Bsp\u005DC\u005BRIGHT\u005D\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bqr\u005D\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bsr\u005D\u0029\u0029\n\u0028\u003BB\u005Bsr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bos\u005D\n\u0028\u003BW\u005Bss\u005D\n\u0028\u003BB\u005Brs\u005D\u003BW\u005Bsq\u005D\u003BB\u005Bps\u005D\u003BW\u005Bqr\u005DC\u005BRIGHT\u005D\u0029\n\u0028\u003BB\u005Bps\u005D\u003BW\u005Bqr\u005D\u003BB\u005Brs\u005D\u003BW\u005Bsq\u005DC\u005BRIGHT\u005D\u0029\u0029\n\u0028\u003BW\u005Bps\u005D\u003BB\u005Brs\u005D\n\u0028\u003BW\u005Bss\u005DC\u005Bko\u005D\u0029\n\u0028\u003BW\u005Bsq\u005D\u003BB\u005Bqr\u005D\u0029\u0029\n\u0028\u003BW\u005Bsq\u005D\u003BB\u005Bps\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bss\u005D\u0029\n\u0028\u003BW\u005Bss\u005D\u003BB\u005Bqr\u005DC\u005Bko\u005D\u0029\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\u003BW\u005Bss\u005D\u003BB\u005Brs\u005D\u003BW\u005Bsq\u005D\u003BB\u005Bps\u005D\n\u0028\u003BW\u005Bss\u005D\u003BB\u005Bqr\u005DC\u005Bko\u005D\u0029\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bsp\u005D\u0029\u0029\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\u003BW\u005Brr\u005D\u003BB\u005Bos\u005D\n\u0028\u003BW\u005Bps\u005D\u003BB\u005Brs\u005DC\u005Bko\u005D\u0029\n\u0028\u003BW\u005Bss\u005D\n\u0028\u003BB\u005Bps\u005D\n\u0028\u003BW\u005Bsq\u005D\u003BB\u005Bqr\u005DC\u005Bko\u005D\u0029\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Brs\u005DC\u005Bko\u005D\u0029\u0029\n\u0028\u003BB\u005Brs\u005D\u003BW\u005Bsq\u005D\u003BB\u005Bps\u005D\n\u0028\u003BW\u005Bss\u005D\u003BB\u005Bqr\u005DC\u005Bko\u005D\u0029\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bsp\u005D\u0029\u0029\u0029\n\u0028\u003BW\u005Bsq\u005D\u003BB\u005Bps\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bss\u005D\u0029\n\u0028\u003BW\u005Bss\u005D\u003BB\u005Bqr\u005DC\u005Bko\u005D\u0029\u0029\u0029\u0029\u0029\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Brp\u005D\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bsr\u005D\u003BW\u005Bsq\u005D\u003BB\u005Bps\u005D\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Brs\u005D\u0029\n\u0028\u003BW\u005Bps\u005D\u003BB\u005Brs\u005D\u0029\u0029\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bps\u005D\u003BW\u005Bqs\u005D\u003BB\u005Bqr\u005DC\u005Bko\u005D\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bps\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Bqr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Brp\u005D\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Brr\u005D\u0029\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Bqr\u005D\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brr\u005D\u0029\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bsp\u005D\u0029\u0029\u0029\u0029\n\u0028\u003BW\u005Bps\u005D\u003BB\u005Brs\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bos\u005D\u003BW\u005Bqr\u005D\u003BB\u005Brp\u005D\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bos\u005D\u003BW\u005Bqr\u005D\u003BB\u005Bsp\u005D\u003BW\u005Bsq\u005D\u003BB\u005Bss\u005D\u0029\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Bos\u005D\u003BW\u005Bqr\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Bsp\u005D\u0029\u0029\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bqr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bps\u005D\u003BW\u005Brs\u005D\u003BB\u005Bro\u005D\u003BW\u005Bsp\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Bro\u005D\u003BB\u005Brn\u005D\u003BW\u005Brr\u005D\u003BB\u005Bps\u005D\n\u0028\u003BW\u005Bso\u005D\u003BB\u005Brs\u005D\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bso\u005D\u003BW\u005Bsp\u005D\u003BB\u005Bsr\u005D\u0029\u0029\u0029\u0029\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\u003BW\u005Bsr\u005D\u003BB\u005Brs\u005D\n\u0028\u003BW\u005Bqs\u005D\u003BB\u005Bsp\u005D\u0029\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Bqs\u005D\u0029\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Brs\u005D\n\u0028\u003BW\u005Bqs\u005D\u003BB\u005Brp\u005D\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Bqs\u005D\u0029\n\u0028\u003BW\u005Bqs\u005D\u003BB\u005Bsp\u005D\u0029\u0029\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bsr\u005D\u0029\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bqr\u005D\u003BW\u005Brr\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bro\u005D\u003BW\u005Bsp\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Bro\u005D\u003BB\u005Brn\u005D\u003BW\u005Brs\u005D\u003BB\u005Bso\u005D\u003BW\u005Bsp\u005D\u003BB\u005Bsr\u005D\u0029\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Bqr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bsp\u005D\u0029\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brr\u005D\u0029\u0029\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Bqr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Brp\u005D\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bsp\u005D\u0029\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brr\u005D\u0029\u0029\u0029\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Bqr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brs\u005D\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bsp\u005D\u0029\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Brp\u005D\u0029\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Brp\u005D\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brr\u005D\u0029\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bsp\u005D\u0029\u0029\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bsp\u005D\u0029\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brs\u005D\u0029\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brr\u005D\u0029\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bsp\u005D\u0029\u0029\n\u0028\u003BW\u005Bsp\u005D\u003BB\u005Brr\u005D\u0029\u0029\u0029\n\u0028\u003BW\u005Brr\u005D\u003BB\u005Bpr\u005D\u0029\n\u0028\u003BW\u005Bqs\u005D\u003BB\u005Bpr\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Brp\u005D\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Brs\u005D\u0029\n\u0028\u003BW\u005Brs\u005D\u003BB\u005Bsr\u005D\u0029\u0029\n\u0028\u003BW\u005Brp\u005D\u003BB\u005Bro\u005D\n\u0028\u003BW\u005Bqr\u005D\u003BB\u005Bsr\u005D\u0029\n\u0028\u003BW\u005Bsr\u005D\u003BB\u005Bqr\u005D\u0029\u0029\u0029\u0029`;
+                    window.dispatchEvent(new CustomEvent("application.potential-duplicates:update-potential-duplicates",{
+                        detail: {
+                            pattern,
+                            radii: [1, 2],
+                            excludedIds: [id],
+                        },
+                    }));
+
+                    var nextButton = document.getElementById('app-navbar-control-next');
+
+                    nextButton.addEventListener('click', function() {
+                        nextButton.innerHTML = `
+                      <div class="spinner-border spinner-border-sm text-light" role="status">
+                        <span class="sr-only">Loading...</span>
+                      </div>
+                    `;
+
+                        nextButton.disabled = true;
+                    });
+
+                    // document.addEventListener('keydown', function(event) {
+
+                    //     // Cross-browser compatibility for key detection
+                    //     let key = event.key;
+
+                    //     if (!key || key === 'Unidentified') {
+                    //         key = event.keyIdentifier;
+                    //     }
+                    //     if (!key || key === 'Unidentified') {
+                    //         key = event.keyCode;
+                    //     }
+
+                    //     // Normalize the key value (use keyCode if key is 'Dead')
+                    //     if (key === 'Dead') {
+                    //         key = event.code;
+                    //     }
+
+                    //     if (event.altKey && (key === 'KeyN' || key === 'n' || key === 'N' || key === 78)) {
+                    //         event.preventDefault();
+
+                    //         var nextButton = document.getElementById('app-navbar-control-next');
+                    //         nextButton.innerHTML = `
+                    //   <div class="spinner-border spinner-border-sm text-light" role="status">
+                    //     <span class="sr-only">Loading...</span>
+                    //   </div>
+                    // `;
+
+                    //         if (nextButton && !nextButton.classList.contains('disabled')) {
+                    //             window.location.href = nextButton.href;
+                    //         }
+                    //     }
+                    // });
+                }
+                ;
+
+                document.addEventListener("DOMContentLoaded", function() {
+                    const tooltipTriggerList = [].slice.call(document.querySelectorAll('.enable-on-big-screen-tooltip'));
+                    const screenWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+                    if (screenWidth >= 768) {
+                        tooltipTriggerList.map(function(tooltipTriggerEl) {
+                            return new bootstrap.Tooltip(tooltipTriggerEl);
+                        });
+                    }
+                });
+
+                window.addEventListener('pageshow', function() {
+                    const nextButton = document.getElementById('app-navbar-control-next');
+                    if (nextButton && nextButton.innerHTML.includes('Loading')) {
+                        nextButton.innerHTML = nextButton.getAttribute('data-text');
+                    }
+                });
+            </script>
+            <div class="row">
+                <div class="col-12">
+                    <div class="player-container">
+                        <link href="https://goproblems.com/eidogo_gp/css/goproblems.css?1.0.5" rel="stylesheet" type="text/css">
+                        <link href="https://goproblems.com/eidogo_gp/css/comments.css?1.0.5" rel="stylesheet" type="text/css">
+                        <link href="https://goproblems.com/eidogo_gp/css/timeTrial.css?1.0.5" rel="stylesheet" type="text/css">
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/js/raphael-min.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/js/tr/en.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/js/tr/en.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/lang.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/eidogo.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/util.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/i18n/en.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/gametree.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/sgf.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/board.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/boardRaphael.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/navTree/raphaelNavTree.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/rules.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/player.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/player/js/init.js?1.0.5"></script>
+                        <div id="player-container" style="display:none;">(;AB[pq]AB[qp]AW[qq]AW[rq]AB[qo]AB[op]C[White to live]AB[qn]AP[goproblems]
+(;W[pr];B[or]
+(;W[qs]
+(;B[rp]C[CHOICE]
+(;W[rr]C[RIGHT])
+(;W[sr];B[rs];W[rr];B[os])
+(;W[sq];B[rr])
+(;W[rs];B[sr]
+(;W[rr];B[sq])
+(;W[sq];B[rr]))
+(;W[ss];B[rr]))
+(;B[rr]C[CHOICE]
+(;W[sr];B[rs];W[rp];B[ro];W[sp]C[RIGHT])
+(;W[rp];B[qr])
+(;W[rs];B[sr]))
+(;B[sr]
+(;W[rr];B[os]
+(;W[ss]
+(;B[rs];W[sq];B[ps];W[qr]C[RIGHT])
+(;B[ps];W[qr];B[rs];W[sq]C[RIGHT]))
+(;W[ps];B[rs]
+(;W[ss]C[ko])
+(;W[sq];B[qr]))
+(;W[sq];B[ps]
+(;W[qr];B[ss])
+(;W[ss];B[qr]C[ko]))
+(;W[rp];B[ro];W[ss];B[rs];W[sq];B[ps]
+(;W[ss];B[qr]C[ko])
+(;W[qr];B[sp])))
+(;W[rp];B[ro];W[rr];B[os]
+(;W[ps];B[rs]C[ko])
+(;W[ss]
+(;B[ps]
+(;W[sq];B[qr]C[ko])
+(;W[qr];B[rs]C[ko]))
+(;B[rs];W[sq];B[ps]
+(;W[ss];B[qr]C[ko])
+(;W[qr];B[sp])))
+(;W[sq];B[ps]
+(;W[qr];B[ss])
+(;W[ss];B[qr]C[ko])))))
+(;W[qr];B[rp]
+(;W[rs];B[sr];W[sq];B[ps])
+(;W[sr];B[rs])
+(;W[ps];B[rs]))
+(;W[rr];B[ps];W[qs];B[qr]C[ko])
+(;W[rs];B[ps]
+(;W[qr];B[sr])
+(;W[sr];B[qr]
+(;W[rr];B[rp])
+(;W[rp];B[rr]))
+(;W[rp];B[ro]
+(;W[qr];B[sr])
+(;W[sr];B[qr]
+(;W[sp];B[rr])
+(;W[rr];B[sp]))))
+(;W[ps];B[rs]
+(;W[rr];B[os];W[qr];B[rp])
+(;W[rp];B[ro]
+(;W[rr];B[os];W[qr];B[sp];W[sq];B[ss])
+(;W[sp];B[os];W[qr];B[sr])
+(;W[sr];B[sp])))
+(;W[rp];B[qr]
+(;W[rr];B[ps];W[rs];B[ro];W[sp];B[sr])
+(;W[ro];B[rn];W[rr];B[ps]
+(;W[so];B[rs])
+(;W[rs];B[so];W[sp];B[sr]))))
+(;W[qr];B[pr]
+(;W[rp];B[ro];W[sr];B[rs]
+(;W[qs];B[sp])
+(;W[sp];B[qs]))
+(;W[sr];B[rs]
+(;W[qs];B[rp])
+(;W[rp];B[ro]
+(;W[sp];B[qs])
+(;W[qs];B[sp])))
+(;W[rs];B[sr]))
+(;W[rp];B[qr];W[rr];B[pr]
+(;W[rs];B[ro];W[sp];B[sr])
+(;W[ro];B[rn];W[rs];B[so];W[sp];B[sr]))
+(;W[rs];B[pr]
+(;W[qr];B[sr])
+(;W[rp];B[ro]
+(;W[qr];B[sr])
+(;W[sr];B[qr]
+(;W[rr];B[sp])
+(;W[sp];B[rr])))
+(;W[sr];B[qr]
+(;W[rr];B[rp])
+(;W[rp];B[ro]
+(;W[rr];B[sp])
+(;W[sp];B[rr]))))
+(;W[sr];B[qr]
+(;W[rr];B[pr]
+(;W[rp];B[ro]
+(;W[sp];B[rs])
+(;W[rs];B[sp]))
+(;W[rs];B[rp]))
+(;W[rs];B[pr]
+(;W[rr];B[rp])
+(;W[rp];B[ro]
+(;W[sp];B[rr])
+(;W[rr];B[sp])))
+(;W[rp];B[ro]
+(;W[rr];B[pr]
+(;W[rs];B[sp])
+(;W[sp];B[rs]))
+(;W[rs];B[pr]
+(;W[sp];B[rr])
+(;W[rr];B[sp]))
+(;W[sp];B[rr])))
+(;W[rr];B[pr])
+(;W[qs];B[pr]
+(;W[qr];B[rp]
+(;W[sr];B[rs])
+(;W[rs];B[sr]))
+(;W[rp];B[ro]
+(;W[qr];B[sr])
+(;W[sr];B[qr]))))</div>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/js/goproblems.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/js/comments.js?1.0.5"></script>
+                        <script type="text/javascript" src="https://goproblems.com/eidogo_gp/js/timeTrial.js?1.0.5"></script>
+                        <script>
+                            $(function() {
+                                var originalFetch = window.fetch;
+                                window.fetch = function(input, init) {
+                                    if (!init) {
+                                        init = {};
+                                    }
+                                    if (!init.headers) {
+                                        init.headers = new Headers();
+                                    }
+
+                                    // init.headers could be:
+                                    //   `A Headers object, an object literal,
+                                    //    or an array of two-item arrays to set request’s headers.`
+                                    if (init.headers instanceof Headers) {
+                                        init.headers.append('Content-Type', 'application/json');
+                                    } else if (init.headers instanceof Array) {
+                                        init.headers.push(['Content-Type', 'application/json']);
+                                    }
+                                    return originalFetch(input, init);
+                                }
+                                ;
+                                player = new go.problems.Player("player-container",{
+                                    "dbId": 5760,
+                                    "userId": 112760,
+                                    "commentsURL": "\/api\/problem\/comments",
+                                    "postCommentsURL": "\/api\/problem\/comment",
+                                    "stoneSize": 35,
+                                    "debugMode": false,
+                                    "seenbefore": false,
+                                    "ptrans": [],
+                                    "eventsEnabled": true,
+                                    "postProblemSolvedURL": "\/api\/problems\/5760\/solve"
+                                });
+                            });
+                        </script>
+                        <script type="text/javascript">
+                            function changeRating() {
+                                var ur = $('#top_user_rating');
+                                ur.css('background-color', '#afa');
+                                setTimeout(function() {
+                                    ur.css('background-color', '#FFFFFF');
+                                }, 1000);
+                            }
+                        </script>
+                    </div>
+                </div>
+            </div>
+            <div class="pb-5"></div>
+        </div>
+
+
+
+
+
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
