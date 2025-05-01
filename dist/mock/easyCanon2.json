@@ -1,0 +1,4730 @@
+[
+    {
+      "id": 32655,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-16T08:53:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32655_2_thumbnail.svg"
+    },
+    {
+      "id": 27359,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-04-15T19:03:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27359_2_thumbnail.svg"
+    },
+    {
+      "id": 29812,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-05-24T05:41:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29812_2_thumbnail.svg"
+    },
+    {
+      "id": 34095,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-08-05T03:46:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34095_2_thumbnail.svg"
+    },
+    {
+      "id": 34189,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-08-05T05:46:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34189_2_thumbnail.svg"
+    },
+    {
+      "id": 34523,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 5,
+      "created_at": "2024-08-08T07:15:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34523_2_thumbnail.svg"
+    },
+    {
+      "id": 34514,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-08-08T06:51:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34514_2_thumbnail.svg"
+    },
+    {
+      "id": 29813,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 5,
+      "created_at": "2024-05-24T07:27:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29813_2_thumbnail.svg"
+    },
+    {
+      "id": 34495,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 5,
+      "created_at": "2024-08-08T05:57:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34495_2_thumbnail.svg"
+    },
+    {
+      "id": 20770,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2016-02-05T15:26:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20770_2_thumbnail.svg"
+    },
+    {
+      "id": 32123,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-07-11T09:07:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32123_2_thumbnail.svg"
+    },
+    {
+      "id": 28942,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-15T12:26:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28942_2_thumbnail.svg"
+    },
+    {
+      "id": 30023,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 5,
+      "created_at": "2024-05-27T10:04:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30023_2_thumbnail.svg"
+    },
+    {
+      "id": 32019,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-07-10T18:12:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32019_2_thumbnail.svg"
+    },
+    {
+      "id": 32424,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-13T10:52:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32424_2_thumbnail.svg"
+    },
+    {
+      "id": 32649,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-16T08:44:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32649_2_thumbnail.svg"
+    },
+    {
+      "id": 29053,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-17T05:57:18+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29053_2_thumbnail.svg"
+    },
+    {
+      "id": 29088,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-17T06:23:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29088_2_thumbnail.svg"
+    },
+    {
+      "id": 29082,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-17T06:16:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29082_2_thumbnail.svg"
+    },
+    {
+      "id": 28975,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-15T13:18:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28975_2_thumbnail.svg"
+    },
+    {
+      "id": 30714,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-06-19T11:57:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30714_2_thumbnail.svg"
+    },
+    {
+      "id": 29123,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-17T09:52:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29123_2_thumbnail.svg"
+    },
+    {
+      "id": 19575,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2015-04-23T19:42:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19575_2_thumbnail.svg"
+    },
+    {
+      "id": 32229,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-12T11:13:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32229_2_thumbnail.svg"
+    },
+    {
+      "id": 29164,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-17T11:45:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29164_2_thumbnail.svg"
+    },
+    {
+      "id": 29272,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-05-20T02:54:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29272_2_thumbnail.svg"
+    },
+    {
+      "id": 33659,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-07-29T02:15:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33659_2_thumbnail.svg"
+    },
+    {
+      "id": 29240,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-17T17:21:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29240_2_thumbnail.svg"
+    },
+    {
+      "id": 29311,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-21T05:09:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29311_2_thumbnail.svg"
+    },
+    {
+      "id": 29256,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-18T16:59:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29256_2_thumbnail.svg"
+    },
+    {
+      "id": 29253,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-18T06:02:08+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29253_2_thumbnail.svg"
+    },
+    {
+      "id": 29860,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-24T07:55:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29860_2_thumbnail.svg"
+    },
+    {
+      "id": 34120,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-08-05T04:05:12+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34120_2_thumbnail.svg"
+    },
+    {
+      "id": 34630,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-08-09T09:33:09+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34630_2_thumbnail.svg"
+    },
+    {
+      "id": 32707,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 5,
+      "created_at": "2024-07-16T12:08:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32707_2_thumbnail.svg"
+    },
+    {
+      "id": 30142,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-27T13:06:08+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30142_2_thumbnail.svg"
+    },
+    {
+      "id": 29662,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-23T16:43:17+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29662_2_thumbnail.svg"
+    },
+    {
+      "id": 32630,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-16T08:11:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32630_2_thumbnail.svg"
+    },
+    {
+      "id": 32212,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-07-12T10:03:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32212_2_thumbnail.svg"
+    },
+    {
+      "id": 29626,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-23T13:12:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29626_2_thumbnail.svg"
+    },
+    {
+      "id": 32699,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-07-16T11:54:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32699_2_thumbnail.svg"
+    },
+    {
+      "id": 29903,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-24T10:09:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29903_2_thumbnail.svg"
+    },
+    {
+      "id": 29958,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 5,
+      "created_at": "2024-05-24T19:04:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29958_2_thumbnail.svg"
+    },
+    {
+      "id": 32625,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-16T07:57:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32625_2_thumbnail.svg"
+    },
+    {
+      "id": 29944,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-24T18:19:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29944_2_thumbnail.svg"
+    },
+    {
+      "id": 29757,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-24T03:04:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29757_2_thumbnail.svg"
+    },
+    {
+      "id": 32539,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-15T09:45:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32539_2_thumbnail.svg"
+    },
+    {
+      "id": 28915,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-14T15:24:08+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28915_2_thumbnail.svg"
+    },
+    {
+      "id": 32537,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-07-15T09:41:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32537_2_thumbnail.svg"
+    },
+    {
+      "id": 29799,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-24T05:24:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29799_2_thumbnail.svg"
+    },
+    {
+      "id": 29810,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-24T05:32:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29810_2_thumbnail.svg"
+    },
+    {
+      "id": 29902,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-24T10:09:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29902_2_thumbnail.svg"
+    },
+    {
+      "id": 32390,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-07-13T07:24:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32390_2_thumbnail.svg"
+    },
+    {
+      "id": 27935,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-04-30T03:17:27+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27935_2_thumbnail.svg"
+    },
+    {
+      "id": 32405,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-13T09:25:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32405_2_thumbnail.svg"
+    },
+    {
+      "id": 29859,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-24T07:54:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29859_2_thumbnail.svg"
+    },
+    {
+      "id": 32264,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-12T14:59:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32264_2_thumbnail.svg"
+    },
+    {
+      "id": 32190,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-07-11T23:21:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32190_2_thumbnail.svg"
+    },
+    {
+      "id": 29241,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-17T17:21:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29241_2_thumbnail.svg"
+    },
+    {
+      "id": 29924,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-24T10:50:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29924_2_thumbnail.svg"
+    },
+    {
+      "id": 34407,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-08-07T11:18:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34407_2_thumbnail.svg"
+    },
+    {
+      "id": 32018,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-07-10T18:10:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32018_2_thumbnail.svg"
+    },
+    {
+      "id": 28017,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-01T07:18:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28017_2_thumbnail.svg"
+    },
+    {
+      "id": 29035,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-16T02:03:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29035_2_thumbnail.svg"
+    },
+    {
+      "id": 29929,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-24T10:52:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29929_2_thumbnail.svg"
+    },
+    {
+      "id": 33057,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-07-20T03:13:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33057_2_thumbnail.svg"
+    },
+    {
+      "id": 29907,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-05-24T10:10:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29907_2_thumbnail.svg"
+    },
+    {
+      "id": 30001,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-26T18:48:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30001_2_thumbnail.svg"
+    },
+    {
+      "id": 29713,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-05-24T01:05:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29713_2_thumbnail.svg"
+    },
+    {
+      "id": 30019,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-27T10:00:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30019_2_thumbnail.svg"
+    },
+    {
+      "id": 29158,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-17T11:30:20+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29158_2_thumbnail.svg"
+    },
+    {
+      "id": 20357,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2015-09-23T19:57:37+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20357_2_thumbnail.svg"
+    },
+    {
+      "id": 17871,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2014-09-05T23:25:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17871_2_thumbnail.svg"
+    },
+    {
+      "id": 30083,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 5,
+      "created_at": "2024-05-27T11:56:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30083_2_thumbnail.svg"
+    },
+    {
+      "id": 28997,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-15T13:38:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28997_2_thumbnail.svg"
+    },
+    {
+      "id": 29805,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-05-24T05:27:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29805_2_thumbnail.svg"
+    },
+    {
+      "id": 34152,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-08-05T04:50:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34152_2_thumbnail.svg"
+    },
+    {
+      "id": 29100,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-05-17T06:37:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29100_2_thumbnail.svg"
+    },
+    {
+      "id": 29768,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-24T03:10:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29768_2_thumbnail.svg"
+    },
+    {
+      "id": 29273,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-20T02:55:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29273_2_thumbnail.svg"
+    },
+    {
+      "id": 34364,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-08-06T10:47:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34364_2_thumbnail.svg"
+    },
+    {
+      "id": 29736,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 5,
+      "created_at": "2024-05-24T02:54:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29736_2_thumbnail.svg"
+    },
+    {
+      "id": 29941,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 5,
+      "created_at": "2024-05-24T18:14:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29941_2_thumbnail.svg"
+    },
+    {
+      "id": 30257,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 5,
+      "created_at": "2024-06-02T00:49:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30257_2_thumbnail.svg"
+    },
+    {
+      "id": 18524,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.9,
+      "created_at": "2014-12-08T12:54:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18524_2_thumbnail.svg"
+    },
+    {
+      "id": 20481,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.8,
+      "created_at": "2015-10-04T20:15:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20481_4_thumbnail.svg"
+    },
+    {
+      "id": 19371,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.8,
+      "created_at": "2015-04-11T15:43:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19371_2_thumbnail.svg"
+    },
+    {
+      "id": 21072,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.8,
+      "created_at": "2016-04-02T13:07:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21072_2_thumbnail.svg"
+    },
+    {
+      "id": 21078,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.8,
+      "created_at": "2016-04-02T14:02:41+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21078_2_thumbnail.svg"
+    },
+    {
+      "id": 19358,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.8,
+      "created_at": "2015-04-11T11:47:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19358_2_thumbnail.svg"
+    },
+    {
+      "id": 20443,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.8,
+      "created_at": "2015-10-04T11:39:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20443_2_thumbnail.svg"
+    },
+    {
+      "id": 20534,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.8,
+      "created_at": "2015-10-10T19:00:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20534_2_thumbnail.svg"
+    },
+    {
+      "id": 29101,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.8,
+      "created_at": "2024-05-17T06:37:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29101_2_thumbnail.svg"
+    },
+    {
+      "id": 30327,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.8,
+      "created_at": "2024-06-05T10:42:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30327_2_thumbnail.svg"
+    },
+    {
+      "id": 20518,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.8,
+      "created_at": "2015-10-10T11:06:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20518_2_thumbnail.svg"
+    },
+    {
+      "id": 28016,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.8,
+      "created_at": "2024-05-01T07:18:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28016_2_thumbnail.svg"
+    },
+    {
+      "id": 20405,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.8,
+      "created_at": "2015-09-26T09:18:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20405_2_thumbnail.svg"
+    },
+    {
+      "id": 20396,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.8,
+      "created_at": "2015-09-25T20:36:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20396_2_thumbnail.svg"
+    },
+    {
+      "id": 28422,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.8,
+      "created_at": "2024-05-08T12:23:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28422_2_thumbnail.svg"
+    },
+    {
+      "id": 33932,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.8,
+      "created_at": "2024-08-03T10:29:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33932_2_thumbnail.svg"
+    },
+    {
+      "id": 20402,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.8,
+      "created_at": "2015-09-26T08:59:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20402_2_thumbnail.svg"
+    },
+    {
+      "id": 32455,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.8,
+      "created_at": "2024-07-13T11:56:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32455_2_thumbnail.svg"
+    },
+    {
+      "id": 21176,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.7,
+      "created_at": "2016-05-03T10:03:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21176_2_thumbnail.svg"
+    },
+    {
+      "id": 21068,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.7,
+      "created_at": "2016-04-02T12:23:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21068_2_thumbnail.svg"
+    },
+    {
+      "id": 20403,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.7,
+      "created_at": "2015-09-26T09:08:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20403_2_thumbnail.svg"
+    },
+    {
+      "id": 19462,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.7,
+      "created_at": "2015-04-15T18:45:28+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19462_2_thumbnail.svg"
+    },
+    {
+      "id": 30063,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.7,
+      "created_at": "2024-05-27T11:45:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30063_2_thumbnail.svg"
+    },
+    {
+      "id": 18058,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.7,
+      "created_at": "2014-11-10T23:39:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18058_2_thumbnail.svg"
+    },
+    {
+      "id": 30062,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.7,
+      "created_at": "2024-05-27T11:44:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30062_2_thumbnail.svg"
+    },
+    {
+      "id": 19162,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.7,
+      "created_at": "2015-03-07T10:46:20+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19162_2_thumbnail.svg"
+    },
+    {
+      "id": 27584,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.7,
+      "created_at": "2024-04-24T03:12:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27584_2_thumbnail.svg"
+    },
+    {
+      "id": 32522,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.7,
+      "created_at": "2024-07-15T09:12:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32522_2_thumbnail.svg"
+    },
+    {
+      "id": 29797,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.7,
+      "created_at": "2024-05-24T05:22:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29797_2_thumbnail.svg"
+    },
+    {
+      "id": 35918,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.7,
+      "created_at": "2024-08-29T04:45:20+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35918_2_thumbnail.svg"
+    },
+    {
+      "id": 20240,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.7,
+      "created_at": "2015-09-11T19:58:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20240_2_thumbnail.svg"
+    },
+    {
+      "id": 29249,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.7,
+      "created_at": "2024-05-18T06:00:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29249_2_thumbnail.svg"
+    },
+    {
+      "id": 18300,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.7,
+      "created_at": "2014-11-23T17:29:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18300_2_thumbnail.svg"
+    },
+    {
+      "id": 19505,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.7,
+      "created_at": "2015-04-18T12:17:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19505_2_thumbnail.svg"
+    },
+    {
+      "id": 29498,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.7,
+      "created_at": "2024-05-22T23:05:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29498_2_thumbnail.svg"
+    },
+    {
+      "id": 20983,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.7,
+      "created_at": "2016-03-28T12:48:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20983_2_thumbnail.svg"
+    },
+    {
+      "id": 16489,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.7,
+      "created_at": "2012-09-28T11:43:09+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16489_3_thumbnail.svg"
+    },
+    {
+      "id": 21022,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.7,
+      "created_at": "2016-03-30T19:03:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21022_2_thumbnail.svg"
+    },
+    {
+      "id": 18075,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.7,
+      "created_at": "2014-11-11T20:12:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18075_2_thumbnail.svg"
+    },
+    {
+      "id": 18253,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2014-11-23T14:39:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18253_2_thumbnail.svg"
+    },
+    {
+      "id": 29226,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2024-05-17T12:29:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29226_2_thumbnail.svg"
+    },
+    {
+      "id": 18192,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2014-11-15T17:16:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18192_2_thumbnail.svg"
+    },
+    {
+      "id": 28949,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-05-15T12:30:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28949_2_thumbnail.svg"
+    },
+    {
+      "id": 29066,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-05-17T06:04:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29066_2_thumbnail.svg"
+    },
+    {
+      "id": 22044,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2019-07-10T13:25:57+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/22044_2_thumbnail.svg"
+    },
+    {
+      "id": 21070,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2016-04-02T12:38:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21070_2_thumbnail.svg"
+    },
+    {
+      "id": 19010,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2014-12-28T00:31:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19010_2_thumbnail.svg"
+    },
+    {
+      "id": 34160,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-08-05T04:57:12+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34160_2_thumbnail.svg"
+    },
+    {
+      "id": 30474,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2024-06-13T15:54:08+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30474_2_thumbnail.svg"
+    },
+    {
+      "id": 29925,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-05-24T10:51:11+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29925_2_thumbnail.svg"
+    },
+    {
+      "id": 30059,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-05-27T11:43:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30059_2_thumbnail.svg"
+    },
+    {
+      "id": 36399,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-09-05T13:41:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/36399_2_thumbnail.svg"
+    },
+    {
+      "id": 29248,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-05-18T06:00:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29248_2_thumbnail.svg"
+    },
+    {
+      "id": 33895,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2024-08-02T14:08:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33895_2_thumbnail.svg"
+    },
+    {
+      "id": 33451,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-07-25T04:52:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33451_2_thumbnail.svg"
+    },
+    {
+      "id": 32623,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-07-16T07:55:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32623_2_thumbnail.svg"
+    },
+    {
+      "id": 29913,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2024-05-24T10:14:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29913_2_thumbnail.svg"
+    },
+    {
+      "id": 33849,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-08-02T04:57:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33849_2_thumbnail.svg"
+    },
+    {
+      "id": 32251,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2024-07-12T13:16:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32251_2_thumbnail.svg"
+    },
+    {
+      "id": 27869,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-04-29T11:42:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27869_2_thumbnail.svg"
+    },
+    {
+      "id": 34422,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-08-07T12:00:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34422_2_thumbnail.svg"
+    },
+    {
+      "id": 34424,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-08-07T12:03:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34424_2_thumbnail.svg"
+    },
+    {
+      "id": 29199,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-05-17T12:12:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29199_2_thumbnail.svg"
+    },
+    {
+      "id": 29092,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2024-05-17T06:25:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29092_2_thumbnail.svg"
+    },
+    {
+      "id": 29832,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2024-05-24T07:39:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29832_2_thumbnail.svg"
+    },
+    {
+      "id": 29179,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2024-05-17T11:58:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29179_2_thumbnail.svg"
+    },
+    {
+      "id": 22884,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2020-11-06T13:13:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/22884_2_thumbnail.svg"
+    },
+    {
+      "id": 29841,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2024-05-24T07:45:11+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29841_2_thumbnail.svg"
+    },
+    {
+      "id": 28937,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2024-05-15T12:23:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28937_2_thumbnail.svg"
+    },
+    {
+      "id": 22993,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2021-02-16T23:38:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/22993_2_thumbnail.svg"
+    },
+    {
+      "id": 18865,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2014-12-24T16:44:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18865_2_thumbnail.svg"
+    },
+    {
+      "id": 12131,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2008-12-22T12:56:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12131_3_thumbnail.svg"
+    },
+    {
+      "id": 3153,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2003-10-25T06:28:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3153_2_thumbnail.svg"
+    },
+    {
+      "id": 18775,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2014-12-20T19:31:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18775_2_thumbnail.svg"
+    },
+    {
+      "id": 3371,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.6,
+      "created_at": "2003-11-21T00:46:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3371_3_thumbnail.svg"
+    },
+    {
+      "id": 6909,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2005-07-15T03:57:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/6909_3_thumbnail.svg"
+    },
+    {
+      "id": 18212,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2014-11-19T22:46:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18212_2_thumbnail.svg"
+    },
+    {
+      "id": 18753,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2014-12-20T18:23:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18753_2_thumbnail.svg"
+    },
+    {
+      "id": 10580,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2007-11-01T11:10:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/10580_2_thumbnail.svg"
+    },
+    {
+      "id": 16263,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2012-07-21T06:46:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16263_2_thumbnail.svg"
+    },
+    {
+      "id": 18566,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2014-12-08T15:12:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18566_2_thumbnail.svg"
+    },
+    {
+      "id": 8707,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2006-06-13T09:53:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/8707_44_thumbnail.svg"
+    },
+    {
+      "id": 11990,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2008-11-20T12:13:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11990_2_thumbnail.svg"
+    },
+    {
+      "id": 15247,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2011-09-02T05:34:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/15247_2_thumbnail.svg"
+    },
+    {
+      "id": 18804,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2014-12-21T23:01:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18804_2_thumbnail.svg"
+    },
+    {
+      "id": 16557,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2012-10-27T05:04:09+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16557_2_thumbnail.svg"
+    },
+    {
+      "id": 8247,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2006-03-09T23:38:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/8247_2_thumbnail.svg"
+    },
+    {
+      "id": 761,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2001-06-21T18:06:27+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/761_2_thumbnail.svg"
+    },
+    {
+      "id": 27577,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-04-24T03:09:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27577_2_thumbnail.svg"
+    },
+    {
+      "id": 27771,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-04-28T03:54:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27771_2_thumbnail.svg"
+    },
+    {
+      "id": 34162,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2024-08-05T04:58:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34162_2_thumbnail.svg"
+    },
+    {
+      "id": 20478,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2015-10-04T17:30:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20478_3_thumbnail.svg"
+    },
+    {
+      "id": 30169,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.6,
+      "created_at": "2024-05-27T13:26:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30169_2_thumbnail.svg"
+    },
+    {
+      "id": 18947,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2014-12-26T20:47:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18947_2_thumbnail.svg"
+    },
+    {
+      "id": 19399,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.6,
+      "created_at": "2015-04-12T10:58:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19399_2_thumbnail.svg"
+    },
+    {
+      "id": 16870,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.6,
+      "created_at": "2012-12-21T15:22:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16870_2_thumbnail.svg"
+    },
+    {
+      "id": 35109,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2024-08-17T13:29:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35109_2_thumbnail.svg"
+    },
+    {
+      "id": 18014,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.6,
+      "created_at": "2014-11-09T14:23:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18014_2_thumbnail.svg"
+    },
+    {
+      "id": 15904,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2012-03-10T08:46:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/15904_3_thumbnail.svg"
+    },
+    {
+      "id": 6506,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2005-05-12T16:55:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/6506_2_thumbnail.svg"
+    },
+    {
+      "id": 5077,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2004-09-20T06:29:18+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5077_2_thumbnail.svg"
+    },
+    {
+      "id": 20203,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2015-08-27T17:06:41+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20203_4_thumbnail.svg"
+    },
+    {
+      "id": 18905,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2014-12-25T13:01:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18905_2_thumbnail.svg"
+    },
+    {
+      "id": 7023,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2005-08-04T21:06:18+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7023_2_thumbnail.svg"
+    },
+    {
+      "id": 16704,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2012-12-02T22:34:20+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16704_2_thumbnail.svg"
+    },
+    {
+      "id": 19357,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2015-04-11T11:39:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19357_2_thumbnail.svg"
+    },
+    {
+      "id": 18181,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2014-11-15T16:44:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18181_2_thumbnail.svg"
+    },
+    {
+      "id": 18107,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2014-11-12T21:00:09+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18107_2_thumbnail.svg"
+    },
+    {
+      "id": 27593,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-04-24T09:21:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27593_2_thumbnail.svg"
+    },
+    {
+      "id": 9653,
+      "genre": "best move",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2007-01-10T23:33:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/9653_2_thumbnail.svg"
+    },
+    {
+      "id": 7205,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2005-09-08T12:31:29+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7205_2_thumbnail.svg"
+    },
+    {
+      "id": 3160,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2003-10-25T10:40:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3160_2_thumbnail.svg"
+    },
+    {
+      "id": 16516,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2012-10-18T00:00:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16516_2_thumbnail.svg"
+    },
+    {
+      "id": 1767,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2002-11-19T12:34:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1767_2_thumbnail.svg"
+    },
+    {
+      "id": 17299,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2013-06-14T21:12:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17299_3_thumbnail.svg"
+    },
+    {
+      "id": 2279,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2003-05-24T04:18:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/2279_2_thumbnail.svg"
+    },
+    {
+      "id": 18931,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2014-12-25T19:05:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18931_2_thumbnail.svg"
+    },
+    {
+      "id": 18525,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2014-12-08T12:57:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18525_2_thumbnail.svg"
+    },
+    {
+      "id": 18358,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2014-11-30T15:14:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18358_2_thumbnail.svg"
+    },
+    {
+      "id": 18433,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2014-12-03T19:57:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18433_2_thumbnail.svg"
+    },
+    {
+      "id": 18770,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2014-12-20T19:15:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18770_2_thumbnail.svg"
+    },
+    {
+      "id": 8948,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2006-07-27T08:41:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/8948_2_thumbnail.svg"
+    },
+    {
+      "id": 19355,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2015-04-11T11:25:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19355_2_thumbnail.svg"
+    },
+    {
+      "id": 21024,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2016-03-30T19:15:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21024_2_thumbnail.svg"
+    },
+    {
+      "id": 15808,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2012-02-02T16:35:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/15808_2_thumbnail.svg"
+    },
+    {
+      "id": 19196,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2015-03-17T11:10:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19196_2_thumbnail.svg"
+    },
+    {
+      "id": 20488,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2015-10-06T20:02:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20488_2_thumbnail.svg"
+    },
+    {
+      "id": 20431,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2015-10-03T19:31:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20431_2_thumbnail.svg"
+    },
+    {
+      "id": 16153,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2012-06-11T00:45:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16153_2_thumbnail.svg"
+    },
+    {
+      "id": 7942,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2006-01-09T10:37:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7942_2_thumbnail.svg"
+    },
+    {
+      "id": 3778,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2004-01-22T12:27:57+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3778_2_thumbnail.svg"
+    },
+    {
+      "id": 30156,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-05-27T13:18:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30156_2_thumbnail.svg"
+    },
+    {
+      "id": 20799,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2016-03-19T12:23:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20799_2_thumbnail.svg"
+    },
+    {
+      "id": 33148,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-07-21T11:05:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33148_2_thumbnail.svg"
+    },
+    {
+      "id": 27846,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-04-29T08:46:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27846_2_thumbnail.svg"
+    },
+    {
+      "id": 29005,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-15T13:44:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29005_2_thumbnail.svg"
+    },
+    {
+      "id": 27686,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-04-26T21:18:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27686_2_thumbnail.svg"
+    },
+    {
+      "id": 34139,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-08-05T04:21:27+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34139_2_thumbnail.svg"
+    },
+    {
+      "id": 34778,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-08-12T01:24:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34778_2_thumbnail.svg"
+    },
+    {
+      "id": 10534,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2007-10-24T19:02:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/10534_2_thumbnail.svg"
+    },
+    {
+      "id": 29147,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-05-17T11:23:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29147_2_thumbnail.svg"
+    },
+    {
+      "id": 29489,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-22T17:10:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29489_2_thumbnail.svg"
+    },
+    {
+      "id": 29602,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-23T13:02:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29602_2_thumbnail.svg"
+    },
+    {
+      "id": 20963,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2016-03-27T21:11:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20963_2_thumbnail.svg"
+    },
+    {
+      "id": 30058,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-27T11:42:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30058_2_thumbnail.svg"
+    },
+    {
+      "id": 29014,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-16T01:51:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29014_2_thumbnail.svg"
+    },
+    {
+      "id": 29129,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-05-17T09:57:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29129_2_thumbnail.svg"
+    },
+    {
+      "id": 29744,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-05-24T02:58:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29744_2_thumbnail.svg"
+    },
+    {
+      "id": 29722,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-24T02:36:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29722_2_thumbnail.svg"
+    },
+    {
+      "id": 34358,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-08-06T10:32:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34358_2_thumbnail.svg"
+    },
+    {
+      "id": 29891,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-24T09:59:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29891_2_thumbnail.svg"
+    },
+    {
+      "id": 29843,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-24T07:45:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29843_2_thumbnail.svg"
+    },
+    {
+      "id": 29572,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-23T12:48:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29572_2_thumbnail.svg"
+    },
+    {
+      "id": 29886,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-24T09:56:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29886_2_thumbnail.svg"
+    },
+    {
+      "id": 28944,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-05-15T12:27:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28944_2_thumbnail.svg"
+    },
+    {
+      "id": 29934,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-24T15:21:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29934_2_thumbnail.svg"
+    },
+    {
+      "id": 32127,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-07-11T09:41:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32127_2_thumbnail.svg"
+    },
+    {
+      "id": 28373,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-07T15:09:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28373_2_thumbnail.svg"
+    },
+    {
+      "id": 32693,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-07-16T11:46:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32693_2_thumbnail.svg"
+    },
+    {
+      "id": 19281,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2015-04-06T17:28:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19281_2_thumbnail.svg"
+    },
+    {
+      "id": 29750,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-24T03:01:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29750_2_thumbnail.svg"
+    },
+    {
+      "id": 30123,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-27T12:53:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30123_2_thumbnail.svg"
+    },
+    {
+      "id": 30128,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-05-27T12:57:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30128_2_thumbnail.svg"
+    },
+    {
+      "id": 34173,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-08-05T05:06:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34173_2_thumbnail.svg"
+    },
+    {
+      "id": 34149,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-08-05T04:48:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34149_2_thumbnail.svg"
+    },
+    {
+      "id": 17752,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2014-05-28T19:53:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17752_2_thumbnail.svg"
+    },
+    {
+      "id": 29006,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-05-15T13:45:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29006_2_thumbnail.svg"
+    },
+    {
+      "id": 30537,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-06-14T11:09:12+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30537_2_thumbnail.svg"
+    },
+    {
+      "id": 34625,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-08-09T09:04:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34625_2_thumbnail.svg"
+    },
+    {
+      "id": 32108,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-07-11T08:46:11+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32108_2_thumbnail.svg"
+    },
+    {
+      "id": 29262,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-05-20T02:45:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29262_2_thumbnail.svg"
+    },
+    {
+      "id": 27629,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-04-25T20:10:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27629_2_thumbnail.svg"
+    },
+    {
+      "id": 32997,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-07-19T15:32:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32997_2_thumbnail.svg"
+    },
+    {
+      "id": 20350,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2015-09-23T19:00:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20350_2_thumbnail.svg"
+    },
+    {
+      "id": 28998,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-05-15T13:38:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28998_2_thumbnail.svg"
+    },
+    {
+      "id": 34017,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-08-04T14:25:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34017_2_thumbnail.svg"
+    },
+    {
+      "id": 4499,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2004-05-23T02:11:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4499_2_thumbnail.svg"
+    },
+    {
+      "id": 33888,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-08-02T13:56:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33888_2_thumbnail.svg"
+    },
+    {
+      "id": 32309,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-07-12T18:49:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32309_2_thumbnail.svg"
+    },
+    {
+      "id": 18913,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2014-12-25T13:17:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18913_2_thumbnail.svg"
+    },
+    {
+      "id": 34741,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-08-10T09:03:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34741_2_thumbnail.svg"
+    },
+    {
+      "id": 34496,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-08-08T05:58:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34496_2_thumbnail.svg"
+    },
+    {
+      "id": 19291,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2015-04-07T19:29:20+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19291_2_thumbnail.svg"
+    },
+    {
+      "id": 30323,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-06-05T10:33:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30323_2_thumbnail.svg"
+    },
+    {
+      "id": 34507,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-08-08T06:08:27+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34507_2_thumbnail.svg"
+    },
+    {
+      "id": 34776,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-08-12T01:19:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34776_2_thumbnail.svg"
+    },
+    {
+      "id": 32224,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-07-12T10:41:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32224_2_thumbnail.svg"
+    },
+    {
+      "id": 18102,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2014-11-12T20:47:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18102_3_thumbnail.svg"
+    },
+    {
+      "id": 28946,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-05-15T12:28:12+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28946_2_thumbnail.svg"
+    },
+    {
+      "id": 30022,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-05-27T10:03:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30022_2_thumbnail.svg"
+    },
+    {
+      "id": 33073,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-07-20T08:08:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33073_2_thumbnail.svg"
+    },
+    {
+      "id": 37953,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2024-10-11T06:46:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/37953_2_thumbnail.svg"
+    },
+    {
+      "id": 29059,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-05-17T05:59:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29059_2_thumbnail.svg"
+    },
+    {
+      "id": 21559,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2017-11-22T21:26:11+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21559_2_thumbnail.svg"
+    },
+    {
+      "id": 29211,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-17T12:19:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29211_2_thumbnail.svg"
+    },
+    {
+      "id": 29048,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-05-16T06:24:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29048_2_thumbnail.svg"
+    },
+    {
+      "id": 30002,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-26T18:49:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30002_2_thumbnail.svg"
+    },
+    {
+      "id": 30255,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-06-02T00:39:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30255_2_thumbnail.svg"
+    },
+    {
+      "id": 33944,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-08-03T10:42:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33944_2_thumbnail.svg"
+    },
+    {
+      "id": 38780,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-10-25T04:01:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/38780_2_thumbnail.svg"
+    },
+    {
+      "id": 34112,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-08-05T03:57:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34112_2_thumbnail.svg"
+    },
+    {
+      "id": 37850,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-10-09T00:00:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/37850_2_thumbnail.svg"
+    },
+    {
+      "id": 18273,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2014-11-23T15:57:11+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18273_2_thumbnail.svg"
+    },
+    {
+      "id": 34108,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-08-05T03:55:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34108_2_thumbnail.svg"
+    },
+    {
+      "id": 21069,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.5,
+      "created_at": "2016-04-02T12:33:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21069_2_thumbnail.svg"
+    },
+    {
+      "id": 29838,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-24T07:43:20+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29838_2_thumbnail.svg"
+    },
+    {
+      "id": 30173,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-05-27T13:30:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30173_2_thumbnail.svg"
+    },
+    {
+      "id": 18392,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2014-11-30T16:43:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18392_2_thumbnail.svg"
+    },
+    {
+      "id": 29105,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.5,
+      "created_at": "2024-05-17T06:39:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29105_2_thumbnail.svg"
+    },
+    {
+      "id": 29008,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-05-15T13:45:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29008_2_thumbnail.svg"
+    },
+    {
+      "id": 31945,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-07-09T21:41:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/31945_2_thumbnail.svg"
+    },
+    {
+      "id": 32230,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-07-12T11:14:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32230_2_thumbnail.svg"
+    },
+    {
+      "id": 29086,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.5,
+      "created_at": "2024-05-17T06:18:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29086_2_thumbnail.svg"
+    },
+    {
+      "id": 32685,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.5,
+      "created_at": "2024-07-16T11:29:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32685_2_thumbnail.svg"
+    },
+    {
+      "id": 29942,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.5,
+      "created_at": "2024-05-24T18:16:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29942_2_thumbnail.svg"
+    },
+    {
+      "id": 6765,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2005-06-27T01:13:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/6765_2_thumbnail.svg"
+    },
+    {
+      "id": 15772,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2012-01-29T10:00:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/15772_2_thumbnail.svg"
+    },
+    {
+      "id": 10425,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2007-09-21T11:46:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/10425_2_thumbnail.svg"
+    },
+    {
+      "id": 13693,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2010-05-12T02:20:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13693_2_thumbnail.svg"
+    },
+    {
+      "id": 18861,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2014-12-24T16:35:29+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18861_2_thumbnail.svg"
+    },
+    {
+      "id": 4777,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2004-07-07T06:12:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4777_2_thumbnail.svg"
+    },
+    {
+      "id": 7945,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2006-01-11T02:36:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7945_2_thumbnail.svg"
+    },
+    {
+      "id": 19252,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2015-04-04T20:12:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19252_2_thumbnail.svg"
+    },
+    {
+      "id": 9855,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2007-03-14T22:39:29+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/9855_2_thumbnail.svg"
+    },
+    {
+      "id": 2071,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2003-03-28T10:34:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/2071_4_thumbnail.svg"
+    },
+    {
+      "id": 20414,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2015-09-27T13:20:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20414_2_thumbnail.svg"
+    },
+    {
+      "id": 5283,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2004-10-17T09:15:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5283_2_thumbnail.svg"
+    },
+    {
+      "id": 3198,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2003-10-29T02:45:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3198_2_thumbnail.svg"
+    },
+    {
+      "id": 20618,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2015-10-23T19:02:27+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20618_2_thumbnail.svg"
+    },
+    {
+      "id": 19401,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2015-04-12T11:08:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19401_2_thumbnail.svg"
+    },
+    {
+      "id": 18746,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2014-12-20T15:29:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18746_2_thumbnail.svg"
+    },
+    {
+      "id": 20632,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2015-10-25T14:25:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20632_2_thumbnail.svg"
+    },
+    {
+      "id": 4888,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.4,
+      "created_at": "2004-08-02T04:56:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4888_2_thumbnail.svg"
+    },
+    {
+      "id": 18295,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2014-11-23T17:12:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18295_2_thumbnail.svg"
+    },
+    {
+      "id": 5191,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2004-10-07T12:43:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5191_2_thumbnail.svg"
+    },
+    {
+      "id": 20416,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2015-09-27T13:29:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20416_2_thumbnail.svg"
+    },
+    {
+      "id": 18534,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2014-12-08T13:23:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18534_2_thumbnail.svg"
+    },
+    {
+      "id": 4763,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2004-07-06T08:36:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4763_2_thumbnail.svg"
+    },
+    {
+      "id": 16031,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2012-05-01T18:23:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16031_2_thumbnail.svg"
+    },
+    {
+      "id": 13370,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2010-01-05T10:36:12+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13370_2_thumbnail.svg"
+    },
+    {
+      "id": 12243,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2009-01-11T12:22:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12243_2_thumbnail.svg"
+    },
+    {
+      "id": 21058,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2016-04-01T20:16:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21058_2_thumbnail.svg"
+    },
+    {
+      "id": 20413,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2015-09-27T13:15:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20413_2_thumbnail.svg"
+    },
+    {
+      "id": 16503,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2012-10-14T09:18:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16503_2_thumbnail.svg"
+    },
+    {
+      "id": 18233,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.4,
+      "created_at": "2014-11-22T14:37:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18233_2_thumbnail.svg"
+    },
+    {
+      "id": 29968,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2024-05-25T20:34:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29968_2_thumbnail.svg"
+    },
+    {
+      "id": 20964,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2016-03-27T21:17:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20964_2_thumbnail.svg"
+    },
+    {
+      "id": 4238,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2004-04-11T20:58:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4238_2_thumbnail.svg"
+    },
+    {
+      "id": 14594,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2011-03-04T02:57:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/14594_2_thumbnail.svg"
+    },
+    {
+      "id": 3249,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2003-11-02T05:49:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3249_2_thumbnail.svg"
+    },
+    {
+      "id": 18788,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2014-12-21T22:21:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18788_2_thumbnail.svg"
+    },
+    {
+      "id": 1243,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2001-12-19T00:26:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1243_2_thumbnail.svg"
+    },
+    {
+      "id": 19264,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.4,
+      "created_at": "2015-04-05T23:03:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19264_2_thumbnail.svg"
+    },
+    {
+      "id": 18373,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.4,
+      "created_at": "2014-11-30T15:56:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18373_2_thumbnail.svg"
+    },
+    {
+      "id": 472,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2001-03-25T21:43:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/472_3_thumbnail.svg"
+    },
+    {
+      "id": 4342,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2004-04-25T21:57:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4342_2_thumbnail.svg"
+    },
+    {
+      "id": 6963,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2005-07-22T22:01:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/6963_2_thumbnail.svg"
+    },
+    {
+      "id": 13518,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2010-03-25T03:45:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13518_3_thumbnail.svg"
+    },
+    {
+      "id": 33583,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2024-07-27T16:23:17+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33583_2_thumbnail.svg"
+    },
+    {
+      "id": 18041,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2014-11-10T22:28:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18041_2_thumbnail.svg"
+    },
+    {
+      "id": 18670,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2014-12-16T19:55:09+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18670_2_thumbnail.svg"
+    },
+    {
+      "id": 30708,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.4,
+      "created_at": "2024-06-19T11:26:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30708_2_thumbnail.svg"
+    },
+    {
+      "id": 28228,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2024-05-04T18:34:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28228_2_thumbnail.svg"
+    },
+    {
+      "id": 18590,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2014-12-09T20:30:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18590_2_thumbnail.svg"
+    },
+    {
+      "id": 13053,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2009-09-02T04:31:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13053_2_thumbnail.svg"
+    },
+    {
+      "id": 5804,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.4,
+      "created_at": "2005-01-13T00:48:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5804_2_thumbnail.svg"
+    },
+    {
+      "id": 20850,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2016-03-21T23:42:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20850_2_thumbnail.svg"
+    },
+    {
+      "id": 34502,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.4,
+      "created_at": "2024-08-08T06:03:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34502_2_thumbnail.svg"
+    },
+    {
+      "id": 16969,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.4,
+      "created_at": "2013-01-04T16:27:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16969_2_thumbnail.svg"
+    },
+    {
+      "id": 19454,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2015-04-14T18:48:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19454_2_thumbnail.svg"
+    },
+    {
+      "id": 18345,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.4,
+      "created_at": "2014-11-30T13:14:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18345_2_thumbnail.svg"
+    },
+    {
+      "id": 18663,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.4,
+      "created_at": "2014-12-15T19:48:57+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18663_2_thumbnail.svg"
+    },
+    {
+      "id": 12800,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2009-06-17T07:11:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12800_2_thumbnail.svg"
+    },
+    {
+      "id": 3265,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2003-11-03T10:39:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3265_2_thumbnail.svg"
+    },
+    {
+      "id": 15115,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2011-08-21T23:00:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/15115_2_thumbnail.svg"
+    },
+    {
+      "id": 4482,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2004-05-15T02:45:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4482_2_thumbnail.svg"
+    },
+    {
+      "id": 7688,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2005-11-20T04:55:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7688_2_thumbnail.svg"
+    },
+    {
+      "id": 17315,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2013-06-18T15:02:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17315_2_thumbnail.svg"
+    },
+    {
+      "id": 18147,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2014-11-14T20:46:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18147_2_thumbnail.svg"
+    },
+    {
+      "id": 14445,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2011-01-10T12:59:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/14445_2_thumbnail.svg"
+    },
+    {
+      "id": 4774,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2004-07-07T04:20:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4774_2_thumbnail.svg"
+    },
+    {
+      "id": 11011,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2008-03-03T16:49:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11011_2_thumbnail.svg"
+    },
+    {
+      "id": 4018,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2004-03-01T12:16:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4018_3_thumbnail.svg"
+    },
+    {
+      "id": 16711,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2012-12-04T23:38:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16711_2_thumbnail.svg"
+    },
+    {
+      "id": 12122,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2008-12-22T11:34:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12122_2_thumbnail.svg"
+    },
+    {
+      "id": 3209,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2003-10-29T17:57:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3209_2_thumbnail.svg"
+    },
+    {
+      "id": 19302,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2015-04-08T18:53:39+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19302_2_thumbnail.svg"
+    },
+    {
+      "id": 18649,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2014-12-14T20:51:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18649_2_thumbnail.svg"
+    },
+    {
+      "id": 16115,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2012-06-08T00:41:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16115_2_thumbnail.svg"
+    },
+    {
+      "id": 18847,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2014-12-24T14:32:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18847_2_thumbnail.svg"
+    },
+    {
+      "id": 8681,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2006-06-10T05:45:39+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/8681_2_thumbnail.svg"
+    },
+    {
+      "id": 18793,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2014-12-21T22:32:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18793_2_thumbnail.svg"
+    },
+    {
+      "id": 3030,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2003-10-01T15:21:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3030_2_thumbnail.svg"
+    },
+    {
+      "id": 18105,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2014-11-12T20:55:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18105_2_thumbnail.svg"
+    },
+    {
+      "id": 18414,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2014-11-30T17:35:09+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18414_2_thumbnail.svg"
+    },
+    {
+      "id": 6287,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2005-04-09T02:24:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/6287_2_thumbnail.svg"
+    },
+    {
+      "id": 20491,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2015-10-06T20:15:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20491_2_thumbnail.svg"
+    },
+    {
+      "id": 18754,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2014-12-20T18:24:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18754_2_thumbnail.svg"
+    },
+    {
+      "id": 4702,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2004-06-26T12:15:57+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4702_2_thumbnail.svg"
+    },
+    {
+      "id": 1269,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2002-01-21T12:27:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1269_3_thumbnail.svg"
+    },
+    {
+      "id": 6050,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2005-02-21T05:55:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/6050_2_thumbnail.svg"
+    },
+    {
+      "id": 3630,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2003-12-26T06:35:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3630_2_thumbnail.svg"
+    },
+    {
+      "id": 18707,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2014-12-18T20:06:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18707_2_thumbnail.svg"
+    },
+    {
+      "id": 9144,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2006-09-13T19:28:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/9144_2_thumbnail.svg"
+    },
+    {
+      "id": 11894,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2008-10-25T19:44:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11894_2_thumbnail.svg"
+    },
+    {
+      "id": 1113,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2001-10-26T19:18:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1113_2_thumbnail.svg"
+    },
+    {
+      "id": 1147,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2001-11-05T00:04:18+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1147_2_thumbnail.svg"
+    },
+    {
+      "id": 38656,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2024-10-23T02:27:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/38656_2_thumbnail.svg"
+    },
+    {
+      "id": 27556,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2024-04-23T05:00:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27556_2_thumbnail.svg"
+    },
+    {
+      "id": 29719,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-05-24T02:34:57+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29719_2_thumbnail.svg"
+    },
+    {
+      "id": 29137,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2024-05-17T11:16:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29137_2_thumbnail.svg"
+    },
+    {
+      "id": 19333,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2015-04-09T19:28:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19333_2_thumbnail.svg"
+    },
+    {
+      "id": 28328,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-05-06T14:37:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28328_2_thumbnail.svg"
+    },
+    {
+      "id": 33175,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2024-07-22T01:40:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33175_2_thumbnail.svg"
+    },
+    {
+      "id": 27795,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-04-28T15:31:17+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27795_2_thumbnail.svg"
+    },
+    {
+      "id": 30111,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2024-05-27T12:46:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30111_2_thumbnail.svg"
+    },
+    {
+      "id": 30159,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2024-05-27T13:19:39+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30159_2_thumbnail.svg"
+    },
+    {
+      "id": 32543,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-07-15T09:52:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32543_2_thumbnail.svg"
+    },
+    {
+      "id": 32523,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-07-15T09:14:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32523_2_thumbnail.svg"
+    },
+    {
+      "id": 29245,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-05-18T05:58:08+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29245_2_thumbnail.svg"
+    },
+    {
+      "id": 35320,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2024-08-22T07:50:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35320_2_thumbnail.svg"
+    },
+    {
+      "id": 37647,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2024-10-04T09:57:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/37647_2_thumbnail.svg"
+    },
+    {
+      "id": 29945,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-05-24T18:21:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29945_2_thumbnail.svg"
+    },
+    {
+      "id": 17976,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2014-11-06T21:23:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17976_2_thumbnail.svg"
+    },
+    {
+      "id": 35225,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2024-08-20T10:08:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35225_2_thumbnail.svg"
+    },
+    {
+      "id": 20533,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2015-10-10T18:54:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20533_3_thumbnail.svg"
+    },
+    {
+      "id": 20549,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2015-10-11T10:15:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20549_2_thumbnail.svg"
+    },
+    {
+      "id": 29939,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2024-05-24T15:22:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29939_2_thumbnail.svg"
+    },
+    {
+      "id": 20486,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2015-10-05T22:53:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20486_2_thumbnail.svg"
+    },
+    {
+      "id": 36918,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2024-09-20T12:49:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/36918_2_thumbnail.svg"
+    },
+    {
+      "id": 34653,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2024-08-09T10:41:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34653_2_thumbnail.svg"
+    },
+    {
+      "id": 312,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2000-12-13T20:24:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/312_3_thumbnail.svg"
+    },
+    {
+      "id": 5070,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2004-09-20T00:27:27+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5070_2_thumbnail.svg"
+    },
+    {
+      "id": 18093,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2014-11-12T20:03:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18093_2_thumbnail.svg"
+    },
+    {
+      "id": 28960,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2024-05-15T12:47:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28960_2_thumbnail.svg"
+    },
+    {
+      "id": 9660,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2007-01-15T02:00:41+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/9660_4_thumbnail.svg"
+    },
+    {
+      "id": 29075,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2024-05-17T06:13:02+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29075_2_thumbnail.svg"
+    },
+    {
+      "id": 29710,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-05-24T00:58:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29710_2_thumbnail.svg"
+    },
+    {
+      "id": 20487,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2015-10-05T22:58:41+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20487_2_thumbnail.svg"
+    },
+    {
+      "id": 7543,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2005-10-25T07:45:53+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7543_2_thumbnail.svg"
+    },
+    {
+      "id": 39578,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-11-07T03:35:31+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/39578_2_thumbnail.svg"
+    },
+    {
+      "id": 28892,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2024-05-14T14:44:11+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/28892_2_thumbnail.svg"
+    },
+    {
+      "id": 29206,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2024-05-17T12:16:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29206_2_thumbnail.svg"
+    },
+    {
+      "id": 29683,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2024-05-23T23:58:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29683_2_thumbnail.svg"
+    },
+    {
+      "id": 39613,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-11-08T05:04:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/39613_2_thumbnail.svg"
+    },
+    {
+      "id": 38562,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-10-22T06:22:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/38562_2_thumbnail.svg"
+    },
+    {
+      "id": 30139,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2024-05-27T13:04:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30139_2_thumbnail.svg"
+    },
+    {
+      "id": 20828,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2016-03-20T12:27:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20828_2_thumbnail.svg"
+    },
+    {
+      "id": 34109,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2024-08-05T03:56:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/34109_2_thumbnail.svg"
+    },
+    {
+      "id": 38574,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2024-10-22T07:14:27+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/38574_2_thumbnail.svg"
+    },
+    {
+      "id": 35150,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2024-08-19T04:32:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35150_2_thumbnail.svg"
+    },
+    {
+      "id": 36292,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2024-09-03T11:54:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/36292_2_thumbnail.svg"
+    },
+    {
+      "id": 30201,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-05-29T18:30:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30201_2_thumbnail.svg"
+    },
+    {
+      "id": 37932,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2024-10-11T02:58:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/37932_2_thumbnail.svg"
+    },
+    {
+      "id": 7770,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2005-12-10T20:33:30+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7770_2_thumbnail.svg"
+    },
+    {
+      "id": 37254,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-09-25T07:33:39+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/37254_2_thumbnail.svg"
+    },
+    {
+      "id": 36549,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2024-09-11T11:09:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/36549_2_thumbnail.svg"
+    },
+    {
+      "id": 29172,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2024-05-17T11:54:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29172_2_thumbnail.svg"
+    },
+    {
+      "id": 11601,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2008-08-01T04:49:18+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11601_2_thumbnail.svg"
+    },
+    {
+      "id": 9215,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2006-09-29T22:09:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/9215_2_thumbnail.svg"
+    },
+    {
+      "id": 6979,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2005-07-24T21:31:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/6979_2_thumbnail.svg"
+    },
+    {
+      "id": 12285,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2009-01-17T12:33:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12285_2_thumbnail.svg"
+    },
+    {
+      "id": 3813,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2004-01-27T01:43:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3813_2_thumbnail.svg"
+    },
+    {
+      "id": 11802,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2008-10-11T08:22:37+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11802_2_thumbnail.svg"
+    },
+    {
+      "id": 1102,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2001-10-25T08:37:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1102_2_thumbnail.svg"
+    },
+    {
+      "id": 18637,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2014-12-14T16:16:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18637_2_thumbnail.svg"
+    },
+    {
+      "id": 21063,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2016-04-02T11:57:36+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21063_2_thumbnail.svg"
+    },
+    {
+      "id": 19315,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2015-04-08T20:23:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19315_2_thumbnail.svg"
+    },
+    {
+      "id": 4438,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2004-05-09T11:05:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4438_2_thumbnail.svg"
+    },
+    {
+      "id": 12817,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2009-06-22T00:44:57+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12817_3_thumbnail.svg"
+    },
+    {
+      "id": 17868,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.3,
+      "created_at": "2014-09-03T18:22:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17868_2_thumbnail.svg"
+    },
+    {
+      "id": 18732,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.3,
+      "created_at": "2014-12-20T12:05:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18732_2_thumbnail.svg"
+    },
+    {
+      "id": 18802,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2014-12-21T22:58:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18802_2_thumbnail.svg"
+    },
+    {
+      "id": 18681,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.3,
+      "created_at": "2014-12-17T19:41:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18681_2_thumbnail.svg"
+    },
+    {
+      "id": 20561,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.3,
+      "created_at": "2015-10-11T11:44:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20561_2_thumbnail.svg"
+    },
+    {
+      "id": 18993,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.3,
+      "created_at": "2014-12-27T20:58:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18993_2_thumbnail.svg"
+    },
+    {
+      "id": 12337,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.2,
+      "created_at": "2009-01-25T02:20:29+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12337_3_thumbnail.svg"
+    },
+    {
+      "id": 12581,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2009-04-16T05:10:12+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12581_2_thumbnail.svg"
+    },
+    {
+      "id": 21055,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2016-04-01T19:37:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21055_2_thumbnail.svg"
+    },
+    {
+      "id": 3186,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2003-10-27T05:18:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3186_2_thumbnail.svg"
+    },
+    {
+      "id": 18556,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-08T14:44:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18556_2_thumbnail.svg"
+    },
+    {
+      "id": 18562,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-08T14:56:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18562_2_thumbnail.svg"
+    },
+    {
+      "id": 17313,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2013-06-18T14:08:28+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17313_2_thumbnail.svg"
+    },
+    {
+      "id": 20890,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.2,
+      "created_at": "2016-03-26T10:36:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20890_2_thumbnail.svg"
+    },
+    {
+      "id": 10292,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2007-09-02T03:17:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/10292_2_thumbnail.svg"
+    },
+    {
+      "id": 394,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2001-02-08T13:05:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/394_2_thumbnail.svg"
+    },
+    {
+      "id": 13537,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2010-03-28T10:47:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13537_2_thumbnail.svg"
+    },
+    {
+      "id": 14284,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2010-12-21T05:42:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/14284_2_thumbnail.svg"
+    },
+    {
+      "id": 713,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2001-06-12T11:35:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/713_2_thumbnail.svg"
+    },
+    {
+      "id": 197,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2000-09-12T13:29:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/197_2_thumbnail.svg"
+    },
+    {
+      "id": 14287,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2010-12-21T12:06:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/14287_2_thumbnail.svg"
+    },
+    {
+      "id": 19103,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2015-02-22T12:10:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19103_2_thumbnail.svg"
+    },
+    {
+      "id": 4778,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2004-07-07T10:01:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4778_5_thumbnail.svg"
+    },
+    {
+      "id": 20378,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2015-09-24T19:43:57+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20378_2_thumbnail.svg"
+    },
+    {
+      "id": 21001,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2016-03-28T17:02:56+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21001_2_thumbnail.svg"
+    },
+    {
+      "id": 3277,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2003-11-04T06:15:26+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3277_2_thumbnail.svg"
+    },
+    {
+      "id": 19529,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2015-04-19T11:09:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19529_2_thumbnail.svg"
+    },
+    {
+      "id": 18944,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2014-12-26T20:42:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18944_2_thumbnail.svg"
+    },
+    {
+      "id": 16004,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2012-04-29T15:32:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16004_2_thumbnail.svg"
+    },
+    {
+      "id": 11940,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2008-11-07T15:42:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11940_2_thumbnail.svg"
+    },
+    {
+      "id": 5670,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2004-12-10T08:24:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5670_2_thumbnail.svg"
+    },
+    {
+      "id": 13863,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2010-07-28T12:10:08+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13863_2_thumbnail.svg"
+    },
+    {
+      "id": 5756,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2005-01-01T12:19:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5756_2_thumbnail.svg"
+    },
+    {
+      "id": 4965,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2004-08-24T23:03:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4965_2_thumbnail.svg"
+    },
+    {
+      "id": 5230,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2004-10-10T14:00:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5230_2_thumbnail.svg"
+    },
+    {
+      "id": 1204,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2001-11-26T09:47:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1204_2_thumbnail.svg"
+    },
+    {
+      "id": 4691,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2004-06-24T00:56:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4691_2_thumbnail.svg"
+    },
+    {
+      "id": 29866,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2024-05-24T08:15:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29866_2_thumbnail.svg"
+    },
+    {
+      "id": 18988,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-27T17:20:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18988_2_thumbnail.svg"
+    },
+    {
+      "id": 21065,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2016-04-02T12:07:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/21065_2_thumbnail.svg"
+    },
+    {
+      "id": 29883,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-05-24T09:53:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29883_2_thumbnail.svg"
+    },
+    {
+      "id": 27633,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-04-25T20:13:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27633_2_thumbnail.svg"
+    },
+    {
+      "id": 38978,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-10-29T05:17:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/38978_2_thumbnail.svg"
+    },
+    {
+      "id": 30487,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.2,
+      "created_at": "2024-06-13T16:12:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30487_2_thumbnail.svg"
+    },
+    {
+      "id": 18669,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-16T19:53:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18669_2_thumbnail.svg"
+    },
+    {
+      "id": 20604,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2015-10-18T18:03:28+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20604_2_thumbnail.svg"
+    },
+    {
+      "id": 19257,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2015-04-04T23:42:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19257_2_thumbnail.svg"
+    },
+    {
+      "id": 30459,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-06-10T20:15:41+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30459_2_thumbnail.svg"
+    },
+    {
+      "id": 37414,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2024-09-27T11:59:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/37414_2_thumbnail.svg"
+    },
+    {
+      "id": 29884,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2024-05-24T09:54:20+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29884_2_thumbnail.svg"
+    },
+    {
+      "id": 18849,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-24T14:46:55+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18849_2_thumbnail.svg"
+    },
+    {
+      "id": 35273,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2024-08-21T13:53:29+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35273_2_thumbnail.svg"
+    },
+    {
+      "id": 30345,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-06-05T21:43:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30345_2_thumbnail.svg"
+    },
+    {
+      "id": 32394,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-07-13T07:30:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32394_2_thumbnail.svg"
+    },
+    {
+      "id": 35345,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-08-22T12:19:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35345_2_thumbnail.svg"
+    },
+    {
+      "id": 29187,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2024-05-17T12:03:45+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29187_2_thumbnail.svg"
+    },
+    {
+      "id": 29502,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2024-05-22T23:11:28+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29502_2_thumbnail.svg"
+    },
+    {
+      "id": 11893,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2008-10-25T19:22:17+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11893_2_thumbnail.svg"
+    },
+    {
+      "id": 30203,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-05-29T19:09:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30203_2_thumbnail.svg"
+    },
+    {
+      "id": 10899,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2008-02-12T02:38:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/10899_2_thumbnail.svg"
+    },
+    {
+      "id": 18704,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-18T20:00:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18704_2_thumbnail.svg"
+    },
+    {
+      "id": 32908,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2024-07-18T16:47:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32908_2_thumbnail.svg"
+    },
+    {
+      "id": 29993,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-05-26T15:30:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29993_2_thumbnail.svg"
+    },
+    {
+      "id": 19248,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2015-04-04T15:42:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19248_2_thumbnail.svg"
+    },
+    {
+      "id": 2087,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2003-03-31T18:40:40+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/2087_2_thumbnail.svg"
+    },
+    {
+      "id": 11331,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2008-06-02T11:51:42+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11331_2_thumbnail.svg"
+    },
+    {
+      "id": 33715,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-07-29T19:20:06+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33715_2_thumbnail.svg"
+    },
+    {
+      "id": 18892,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2014-12-25T12:25:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18892_2_thumbnail.svg"
+    },
+    {
+      "id": 20492,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2015-10-06T20:18:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20492_2_thumbnail.svg"
+    },
+    {
+      "id": 19289,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2015-04-07T19:13:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/19289_2_thumbnail.svg"
+    },
+    {
+      "id": 35808,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2024-08-28T04:02:29+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35808_2_thumbnail.svg"
+    },
+    {
+      "id": 20483,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2015-10-05T22:43:52+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20483_2_thumbnail.svg"
+    },
+    {
+      "id": 38557,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-10-22T05:45:28+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/38557_2_thumbnail.svg"
+    },
+    {
+      "id": 36208,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-09-02T10:29:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/36208_2_thumbnail.svg"
+    },
+    {
+      "id": 14933,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2011-06-22T12:10:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/14933_2_thumbnail.svg"
+    },
+    {
+      "id": 37568,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-10-01T14:14:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/37568_2_thumbnail.svg"
+    },
+    {
+      "id": 2585,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2003-06-14T03:17:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/2585_2_thumbnail.svg"
+    },
+    {
+      "id": 12868,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2009-07-01T07:23:21+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12868_2_thumbnail.svg"
+    },
+    {
+      "id": 13157,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2009-10-13T14:00:39+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13157_2_thumbnail.svg"
+    },
+    {
+      "id": 14940,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2011-06-23T01:19:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/14940_2_thumbnail.svg"
+    },
+    {
+      "id": 10541,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2007-10-25T20:53:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/10541_2_thumbnail.svg"
+    },
+    {
+      "id": 4572,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2004-06-02T07:07:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4572_2_thumbnail.svg"
+    },
+    {
+      "id": 15238,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2011-09-01T02:46:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/15238_2_thumbnail.svg"
+    },
+    {
+      "id": 2759,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2003-07-25T05:54:58+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/2759_2_thumbnail.svg"
+    },
+    {
+      "id": 3208,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2003-10-29T17:49:10+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3208_2_thumbnail.svg"
+    },
+    {
+      "id": 14458,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2011-01-14T07:07:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/14458_2_thumbnail.svg"
+    },
+    {
+      "id": 18747,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2014-12-20T15:31:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18747_2_thumbnail.svg"
+    },
+    {
+      "id": 20400,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2015-09-25T21:04:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20400_2_thumbnail.svg"
+    },
+    {
+      "id": 18546,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-08T13:53:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18546_2_thumbnail.svg"
+    },
+    {
+      "id": 18868,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2014-12-24T16:56:32+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18868_2_thumbnail.svg"
+    },
+    {
+      "id": 3247,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2003-11-02T05:32:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3247_2_thumbnail.svg"
+    },
+    {
+      "id": 13402,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2010-01-24T15:43:34+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13402_2_thumbnail.svg"
+    },
+    {
+      "id": 11673,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2008-08-30T11:15:49+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/11673_2_thumbnail.svg"
+    },
+    {
+      "id": 18646,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2014-12-14T20:38:22+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18646_2_thumbnail.svg"
+    },
+    {
+      "id": 20523,
+      "genre": "tesuji",
+      "difficulty": 25,
+      "rating": 4.2,
+      "created_at": "2015-10-10T12:49:17+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20523_3_thumbnail.svg"
+    },
+    {
+      "id": 18745,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2014-12-20T15:28:01+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18745_2_thumbnail.svg"
+    },
+    {
+      "id": 16131,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2012-06-08T19:08:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16131_2_thumbnail.svg"
+    },
+    {
+      "id": 4205,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2004-04-02T22:09:11+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4205_2_thumbnail.svg"
+    },
+    {
+      "id": 4690,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2004-06-23T19:07:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4690_2_thumbnail.svg"
+    },
+    {
+      "id": 20522,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2015-10-10T12:42:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20522_2_thumbnail.svg"
+    },
+    {
+      "id": 18471,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-12-06T13:17:25+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18471_2_thumbnail.svg"
+    },
+    {
+      "id": 15718,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2012-01-16T07:28:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/15718_2_thumbnail.svg"
+    },
+    {
+      "id": 4509,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2004-05-24T09:53:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4509_2_thumbnail.svg"
+    },
+    {
+      "id": 3220,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2003-10-31T05:53:33+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/3220_2_thumbnail.svg"
+    },
+    {
+      "id": 32158,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-07-11T11:24:13+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32158_2_thumbnail.svg"
+    },
+    {
+      "id": 39684,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-11-08T10:28:44+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/39684_2_thumbnail.svg"
+    },
+    {
+      "id": 35828,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-08-28T06:19:41+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35828_2_thumbnail.svg"
+    },
+    {
+      "id": 33059,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2024-07-20T03:14:04+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33059_2_thumbnail.svg"
+    },
+    {
+      "id": 7069,
+      "genre": "tesuji",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2005-08-12T10:03:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7069_2_thumbnail.svg"
+    },
+    {
+      "id": 36171,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2024-09-02T06:54:51+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/36171_2_thumbnail.svg"
+    },
+    {
+      "id": 20415,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2015-09-27T13:24:50+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20415_2_thumbnail.svg"
+    },
+    {
+      "id": 16010,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2012-04-30T01:02:18+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/16010_2_thumbnail.svg"
+    },
+    {
+      "id": 27375,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.2,
+      "created_at": "2024-04-15T23:51:59+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/27375_2_thumbnail.svg"
+    },
+    {
+      "id": 30770,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2024-06-21T05:35:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/30770_2_thumbnail.svg"
+    },
+    {
+      "id": 18317,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2014-11-29T12:38:03+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18317_2_thumbnail.svg"
+    },
+    {
+      "id": 35306,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2024-08-22T06:56:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/35306_2_thumbnail.svg"
+    },
+    {
+      "id": 33507,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-07-26T09:09:23+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/33507_2_thumbnail.svg"
+    },
+    {
+      "id": 32178,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-07-11T12:05:19+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/32178_2_thumbnail.svg"
+    },
+    {
+      "id": 17887,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.2,
+      "created_at": "2014-09-12T04:36:46+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/17887_2_thumbnail.svg"
+    },
+    {
+      "id": 29190,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.2,
+      "created_at": "2024-05-17T12:05:14+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/29190_2_thumbnail.svg"
+    },
+    {
+      "id": 324,
+      "genre": "tesuji",
+      "difficulty": 22,
+      "rating": 4.2,
+      "created_at": "2000-12-18T21:41:15+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/324_2_thumbnail.svg"
+    },
+    {
+      "id": 12599,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.1,
+      "created_at": "2009-04-23T01:27:48+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12599_2_thumbnail.svg"
+    },
+    {
+      "id": 1561,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.1,
+      "created_at": "2002-08-12T10:15:05+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/1561_2_thumbnail.svg"
+    },
+    {
+      "id": 18459,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.1,
+      "created_at": "2014-12-06T11:05:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18459_2_thumbnail.svg"
+    },
+    {
+      "id": 18502,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.1,
+      "created_at": "2014-12-07T12:53:24+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18502_2_thumbnail.svg"
+    },
+    {
+      "id": 18188,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.1,
+      "created_at": "2014-11-15T17:05:43+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18188_2_thumbnail.svg"
+    },
+    {
+      "id": 18522,
+      "genre": "life and death",
+      "difficulty": 25,
+      "rating": 4.1,
+      "created_at": "2014-12-07T20:39:39+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18522_2_thumbnail.svg"
+    },
+    {
+      "id": 18759,
+      "genre": "life and death",
+      "difficulty": 24,
+      "rating": 4.1,
+      "created_at": "2014-12-20T18:43:18+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/18759_2_thumbnail.svg"
+    },
+    {
+      "id": 12725,
+      "genre": "life and death",
+      "difficulty": 22,
+      "rating": 4.1,
+      "created_at": "2009-05-29T09:15:38+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/12725_2_thumbnail.svg"
+    },
+    {
+      "id": 7915,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.1,
+      "created_at": "2006-01-05T12:31:47+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/7915_2_thumbnail.svg"
+    },
+    {
+      "id": 5734,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.1,
+      "created_at": "2004-12-26T11:33:35+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/5734_3_thumbnail.svg"
+    },
+    {
+      "id": 13845,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.1,
+      "created_at": "2010-07-18T20:24:54+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/13845_2_thumbnail.svg"
+    },
+    {
+      "id": 326,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.1,
+      "created_at": "2000-12-20T13:30:07+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/326_63_thumbnail.svg"
+    },
+    {
+      "id": 4000,
+      "genre": "life and death",
+      "difficulty": 23,
+      "rating": 4.1,
+      "created_at": "2004-02-28T03:21:00+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/4000_2_thumbnail.svg"
+    },
+    {
+      "id": 2241,
+      "genre": "life and death",
+      "difficulty": 21,
+      "rating": 4.1,
+      "created_at": "2003-05-16T17:58:08+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/2241_2_thumbnail.svg"
+    },
+    {
+      "id": 20490,
+      "genre": "tesuji",
+      "difficulty": 24,
+      "rating": 4.1,
+      "created_at": "2015-10-06T20:11:17+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20490_2_thumbnail.svg"
+    },
+    {
+      "id": 20485,
+      "genre": "tesuji",
+      "difficulty": 21,
+      "rating": 4.1,
+      "created_at": "2015-10-05T22:50:16+00:00",
+      "image_url": "https://d14j2ume0sa4nc.cloudfront.net/problem-images/20485_2_thumbnail.svg"
+    }
+  ]
